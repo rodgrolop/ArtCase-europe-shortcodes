@@ -1,0 +1,47 @@
+.single-device-container {
+	width: 100%;
+    float: left;
+}
+.single-device-images{
+	width: 100%;
+	display: inline-block;
+}
+.single-mockup-container{
+	width: 33.333333%;
+	float: left;
+	padding: 5px;
+	box-sizing: border-box;
+}
+.single-mockup-container img{
+	width: 100%;
+}
+.device-mockup{
+	width: 100%;
+}
+.device-front-img{
+	display: none;
+}
+.device-design-img{
+	max-width: 480px;
+}
+.form-section {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.form-section label{
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.form-section.price, .form-section.sku, .form-section.category, .form-section.color{
+	width: 50%;
+	float: left;
+}
+.images-generator-input{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.design-preview{
+	margin-bottom: 20px;
+}
